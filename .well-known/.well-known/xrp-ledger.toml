@@ -1,0 +1,14 @@
+[[ISSUERS]]
+address = "rGSWkbr1sHAxETn74GZd2mgKJUHt98tR99"
+name = "X Meta Finance"
+
+  [[TOKENS]]
+  issuer = "rGSWkbr1sHAxETn74GZd2mgKJUHt98tR99"
+  currency = "XMF"
+  name = "X Meta Finance"
+  desc = "XMF is de native token van X Meta Finance"
+  icon = "https://sites.google.com/view/x-meta-finance/logo.png"
+
+  [[TOKENS.URLS]]
+  url = "https://sites.google.com/view/x-meta-finance/homepage"
+  type = "website"
