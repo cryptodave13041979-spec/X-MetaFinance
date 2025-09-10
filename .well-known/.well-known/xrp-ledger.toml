@@ -7,8 +7,8 @@ name = "X Meta Finance"
   currency = "XMF"
   name = "X Meta Finance"
   desc = "XMF is de native token van X Meta Finance"
-  icon = "https://sites.google.com/view/x-meta-finance/logo.png"
+  icon = "ttps://scontent-bru2-1.xx.fbcdn.net/v/t39.30808-6/545342265_122174813282505356_3570731727797799872_n.jpg"
 
   [[TOKENS.URLS]]
-  url = "https://sites.google.com/view/x-meta-finance/homepage"
+  url = "https://www.facebook.com/professional_dashboard/overview/?locale=nl_BE"
   type = "website"
